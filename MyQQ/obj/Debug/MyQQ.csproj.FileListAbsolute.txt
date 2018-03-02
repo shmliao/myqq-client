@@ -1,0 +1,80 @@
+C:\Users\Administrator\Desktop\C 完美仿QQ聊天软件MyQQ源代码完整版 www.diybloghome.com 分享\C#完美仿QQ聊天软件MyQQ源代码完整版(www.diybloghome.com_分享)\项目参考代码\MyQQ\MyQQ\bin\Debug\MyQQ.exe
+C:\Users\Administrator\Desktop\C 完美仿QQ聊天软件MyQQ源代码完整版 www.diybloghome.com 分享\C#完美仿QQ聊天软件MyQQ源代码完整版(www.diybloghome.com_分享)\项目参考代码\MyQQ\MyQQ\bin\Debug\MyQQ.pdb
+C:\Users\Administrator\Desktop\C 完美仿QQ聊天软件MyQQ源代码完整版 www.diybloghome.com 分享\C#完美仿QQ聊天软件MyQQ源代码完整版(www.diybloghome.com_分享)\项目参考代码\MyQQ\MyQQ\obj\Debug\MyQQ.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C 完美仿QQ聊天软件MyQQ源代码完整版 www.diybloghome.com 分享\C#完美仿QQ聊天软件MyQQ源代码完整版(www.diybloghome.com_分享)\项目参考代码\MyQQ\MyQQ\obj\Debug\MyQQ.ChatForm.resources
+C:\Users\Administrator\Desktop\C 完美仿QQ聊天软件MyQQ源代码完整版 www.diybloghome.com 分享\C#完美仿QQ聊天软件MyQQ源代码完整版(www.diybloghome.com_分享)\项目参考代码\MyQQ\MyQQ\obj\Debug\MyQQ.FacesForm.resources
+C:\Users\Administrator\Desktop\C 完美仿QQ聊天软件MyQQ源代码完整版 www.diybloghome.com 分享\C#完美仿QQ聊天软件MyQQ源代码完整版(www.diybloghome.com_分享)\项目参考代码\MyQQ\MyQQ\obj\Debug\MyQQ.RegisterForm.resources
+C:\Users\Administrator\Desktop\C 完美仿QQ聊天软件MyQQ源代码完整版 www.diybloghome.com 分享\C#完美仿QQ聊天软件MyQQ源代码完整版(www.diybloghome.com_分享)\项目参考代码\MyQQ\MyQQ\obj\Debug\MyQQ.LoginForm.resources
+C:\Users\Administrator\Desktop\C 完美仿QQ聊天软件MyQQ源代码完整版 www.diybloghome.com 分享\C#完美仿QQ聊天软件MyQQ源代码完整版(www.diybloghome.com_分享)\项目参考代码\MyQQ\MyQQ\obj\Debug\MyQQ.MainForm.resources
+C:\Users\Administrator\Desktop\C 完美仿QQ聊天软件MyQQ源代码完整版 www.diybloghome.com 分享\C#完美仿QQ聊天软件MyQQ源代码完整版(www.diybloghome.com_分享)\项目参考代码\MyQQ\MyQQ\obj\Debug\MyQQ.PersonalInfoForm.resources
+C:\Users\Administrator\Desktop\C 完美仿QQ聊天软件MyQQ源代码完整版 www.diybloghome.com 分享\C#完美仿QQ聊天软件MyQQ源代码完整版(www.diybloghome.com_分享)\项目参考代码\MyQQ\MyQQ\obj\Debug\MyQQ.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C 完美仿QQ聊天软件MyQQ源代码完整版 www.diybloghome.com 分享\C#完美仿QQ聊天软件MyQQ源代码完整版(www.diybloghome.com_分享)\项目参考代码\MyQQ\MyQQ\obj\Debug\MyQQ.RequestForm.resources
+C:\Users\Administrator\Desktop\C 完美仿QQ聊天软件MyQQ源代码完整版 www.diybloghome.com 分享\C#完美仿QQ聊天软件MyQQ源代码完整版(www.diybloghome.com_分享)\项目参考代码\MyQQ\MyQQ\obj\Debug\MyQQ.SearchFriendForm.resources
+C:\Users\Administrator\Desktop\C 完美仿QQ聊天软件MyQQ源代码完整版 www.diybloghome.com 分享\C#完美仿QQ聊天软件MyQQ源代码完整版(www.diybloghome.com_分享)\项目参考代码\MyQQ\MyQQ\obj\Debug\MyQQ.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C 完美仿QQ聊天软件MyQQ源代码完整版 www.diybloghome.com 分享\C#完美仿QQ聊天软件MyQQ源代码完整版(www.diybloghome.com_分享)\项目参考代码\MyQQ\MyQQ\obj\Debug\MyQQ.exe
+C:\Users\Administrator\Desktop\C 完美仿QQ聊天软件MyQQ源代码完整版 www.diybloghome.com 分享\C#完美仿QQ聊天软件MyQQ源代码完整版(www.diybloghome.com_分享)\项目参考代码\MyQQ\MyQQ\obj\Debug\MyQQ.pdb
+D:\Git\MyQQClient\MyQQ\obj\Debug\MyQQ.exe
+D:\Git\MyQQClient\MyQQ\obj\Debug\MyQQ.pdb
+D:\Git\MyQQClient\MyQQ\bin\Debug\MyQQ.exe
+D:\Git\MyQQClient\MyQQ\bin\Debug\MyQQ.pdb
+D:\Git\MyQQClient\MyQQ\obj\Debug\MyQQ.csprojResolveAssemblyReference.cache
+D:\Git\MyQQClient\MyQQ\obj\Debug\MyQQ.ChatForm.resources
+D:\Git\MyQQClient\MyQQ\obj\Debug\MyQQ.FacesForm.resources
+D:\Git\MyQQClient\MyQQ\obj\Debug\MyQQ.RegisterForm.resources
+D:\Git\MyQQClient\MyQQ\obj\Debug\MyQQ.LoginForm.resources
+D:\Git\MyQQClient\MyQQ\obj\Debug\MyQQ.MainForm.resources
+D:\Git\MyQQClient\MyQQ\obj\Debug\MyQQ.Properties.Resources.resources
+D:\Git\MyQQClient\MyQQ\obj\Debug\MyQQ.SearchFriendForm.resources
+D:\Git\MyQQClient\MyQQ\obj\Debug\MyQQ.csproj.GenerateResource.Cache
+D:\Git\MyQQClient\MyQQ\bin\Debug\MyQQ.exe.config
+D:\Git\MyQQClient\MyQQ\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Git\MyQQClient\MyQQ\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Git\MyQQClient\MyQQ\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Git\MyQQClient\MyQQ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Git\MyQQClient\MyQQ\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Git\MyQQClient\MyQQ\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Git\MyQQClient\MyQQ\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Git\MyQQClient\MyQQ\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Git\MyQQClient\MyQQ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Git\MyQQClient\MyQQ\obj\Debug\MyQQ.TestFrm.resources
+D:\Git\MyQQClient\MyQQ\bin\Debug\DSharpPlus.dll
+D:\Git\MyQQClient\MyQQ\bin\Debug\DSharpPlus.WebSocket.WebSocketSharp.dll
+D:\Git\MyQQClient\MyQQ\bin\Debug\Newtonsoft.Json.dll
+D:\Git\MyQQClient\MyQQ\bin\Debug\websocket-sharp.dll
+D:\Git\MyQQClient\MyQQ\bin\Debug\DSharpPlus.xml
+D:\Git\MyQQClient\MyQQ\bin\Debug\DSharpPlus.WebSocket.WebSocketSharp.xml
+D:\Git\MyQQClient\MyQQ\bin\Debug\Newtonsoft.Json.xml
+D:\Git\MyQQClient\MyQQ\obj\Debug\MyQQ.InputForm.resources
+D:\Git\MyQQClient\MyQQ\obj\Debug\MyQQ.SysMessForm.resources
+D:\Git\MyQQClient\MyQQ\obj\Debug\MyQQ.EditInfoForm.resources
+D:\github\myqq-client\MyQQ\bin\Debug\MyQQ.exe.config
+D:\github\myqq-client\MyQQ\obj\Debug\MyQQ.exe
+D:\github\myqq-client\MyQQ\obj\Debug\MyQQ.pdb
+D:\github\myqq-client\MyQQ\bin\Debug\MyQQ.exe
+D:\github\myqq-client\MyQQ\bin\Debug\MyQQ.pdb
+D:\github\myqq-client\MyQQ\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\github\myqq-client\MyQQ\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\github\myqq-client\MyQQ\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\github\myqq-client\MyQQ\bin\Debug\Newtonsoft.Json.dll
+D:\github\myqq-client\MyQQ\bin\Debug\SideBar.dll
+D:\github\myqq-client\MyQQ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\github\myqq-client\MyQQ\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\github\myqq-client\MyQQ\bin\Debug\websocket-sharp.dll
+D:\github\myqq-client\MyQQ\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\github\myqq-client\MyQQ\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\github\myqq-client\MyQQ\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\github\myqq-client\MyQQ\bin\Debug\Newtonsoft.Json.xml
+D:\github\myqq-client\MyQQ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\github\myqq-client\MyQQ\obj\Debug\MyQQ.csprojResolveAssemblyReference.cache
+D:\github\myqq-client\MyQQ\obj\Debug\MyQQ.ChatForm.resources
+D:\github\myqq-client\MyQQ\obj\Debug\MyQQ.FacesForm.resources
+D:\github\myqq-client\MyQQ\obj\Debug\MyQQ.EditInfoForm.resources
+D:\github\myqq-client\MyQQ\obj\Debug\MyQQ.RegisterForm.resources
+D:\github\myqq-client\MyQQ\obj\Debug\MyQQ.LoginForm.resources
+D:\github\myqq-client\MyQQ\obj\Debug\MyQQ.MainForm.resources
+D:\github\myqq-client\MyQQ\obj\Debug\MyQQ.Properties.Resources.resources
+D:\github\myqq-client\MyQQ\obj\Debug\MyQQ.InputForm.resources
+D:\github\myqq-client\MyQQ\obj\Debug\MyQQ.SysMessForm.resources
+D:\github\myqq-client\MyQQ\obj\Debug\MyQQ.SearchFriendForm.resources
+D:\github\myqq-client\MyQQ\obj\Debug\MyQQ.TestFrm.resources
+D:\github\myqq-client\MyQQ\obj\Debug\MyQQ.csproj.GenerateResource.Cache
